@@ -14,7 +14,7 @@ public class GenThree {
 	        System.out.println((int)randomNum2);
 	        System.out.println((int)randomNum3);
 		// #Feedback: better to not do calculation in print commands
-		int min = (int)(Math.min(Math.min(randomNum1,randomNum2), randomNum3)) )'
+		int min = (int)(Math.min(Math.min(randomNum1,randomNum2), randomNum3));
 	        System.out.println("The minimal generated number was " + min;
 	}
 }
